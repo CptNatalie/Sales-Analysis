@@ -5,4 +5,4 @@ Analyzing sales data to gain insights into which cities in the U.S. have sold th
 
 # Reference
 
-ChatGPT.com
+www.chat.openai.com
